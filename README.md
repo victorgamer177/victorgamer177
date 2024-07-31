@@ -1,8 +1,4 @@
 
-<p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
-<p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
-<h3 align="center">Showcase your skills on your GitHub or resumé with ease!</h3>
-<hr>
 ## Sobre mim
 
 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -23,7 +19,3 @@
 ## Onde me encontrar
 
 [![Gmail Badge](https://img.shields.io/badge/-Victoraugustonunespreto@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Victoraugustonunespreto@gmail.com)](mailto:Victoraugustonunespreto@gmail.com)
-<p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
-<p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
-<h3 align="center">Showcase your skills on your GitHub or resumé with ease!</h3>
-<hr>
