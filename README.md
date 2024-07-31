@@ -16,5 +16,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-victorpreto23-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/victorpreto23?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/victorpreto23?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![Linkedin](https://img.shields.io/badge/-Victor Preto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorpreto23?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail Badge](https://img.shields.io/badge/-Victoraugustonunespreto@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Victoraugustonunespreto@gmail.com)](mailto:Victoraugustonunespreto@gmail.com)
