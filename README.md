@@ -16,5 +16,4 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-VictorPreto-blue?style=flat-square&logo=Linkedin&logoColor=white&link
 [![Gmail Badge](https://img.shields.io/badge/-Victoraugustonunespreto@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Victoraugustonunespreto@gmail.com)](mailto:Victoraugustonunespreto@gmail.com)
