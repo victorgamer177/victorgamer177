@@ -3,11 +3,11 @@
 
 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 
-🎓 Estudando {Desenvolvimento} no {Senac}.
+🎓 Estudando {Desenvolvimento} no {Senac},tenho conhecimento em HTML E CSS.
 
-💼 Trabalhando como {Freelancer} na {Pereira}.
+💼 Trabalhando como {Freelancer} no {Pereira}.
 
-🌱 Aprendendo mais sobre {Java}.
+🌱 Aprendendo mais sobre Javascipt,java e csharp.
   
 ## 🚀 Minhas Skills
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
